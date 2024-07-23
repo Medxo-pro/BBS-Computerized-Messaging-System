@@ -1,0 +1,4 @@
+ID: 2
+Poster: kathi
+Subject: Test 2
+Text: Adding a message with ID 2 - Kathi
